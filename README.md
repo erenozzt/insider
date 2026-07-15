@@ -1,4 +1,4 @@
-# insider
+# Insider
 
 # Gizlilik Politikası
 
